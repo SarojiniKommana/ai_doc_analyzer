@@ -4,6 +4,8 @@ An AI-powered tool that helps engineering students and researchers quickly under
 
 Built as part of a virtual internship project by a 4-person team.
 
+🔗 **Live demo:** [https://doc-analyzer-app--0000001.agreeablecliff-e77f2d3d.centralindia.azurecontainerapps.io/](https://doc-analyzer-app--0000001.agreeablecliff-e77f2d3d.centralindia.azurecontainerapps.io/)
+
 ---
 
 ## Table of Contents
@@ -166,6 +168,4 @@ Responses from `/api/analyze` and `/api/qa` are streamed using server-sent event
 - [ ] Support for additional document formats
 - [ ] Export structured breakdown as a shareable summary
 
----
 
-Built by a 4-person team as part of an unpaid virtual internship submission.
