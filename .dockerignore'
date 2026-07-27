@@ -1,0 +1,8 @@
+Frontend/node_modules
+Frontend/dist
+backend/venv
+backend/__pycache__
+backend/app/__pycache__
+backend/.env
+Frontend/.env
+.git

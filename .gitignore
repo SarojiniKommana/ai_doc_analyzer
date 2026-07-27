@@ -1,0 +1,15 @@
+# Backend
+backend/__pycache__/
+backend/app/__pycache__/
+backend/venv/
+backend/.env
+
+# Frontend
+Frontend/node_modules/
+Frontend/dist/
+Frontend/.env
+
+# General
+.DS_Store
+.vscode/
+*.swp
