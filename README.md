@@ -58,7 +58,7 @@ This tool acts like a study companion that sits between you and the raw paper, g
 
 - **Frontend:** React
 - **Backend:** FastAPI (Python)
-- **LLM Provider:** Groq API — `llama-3.3-70b-versatile`
+- **LLM Provider:** Groq API — `openai/gpt-oss-120b`
 - **Containerization:** Docker (single-container deployment)
 - **Hosting:** Azure (Azure for Students subscription), exposed over public HTTPS
 
