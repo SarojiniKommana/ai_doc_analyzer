@@ -75,7 +75,7 @@ This tool acts like a study companion that sits between you and the raw paper, g
 
 ```bash
 # Clone the repo
-git clone <repo-url>
+git clone https://github.com/SarojiniKommana/ai_doc_analyzer
 cd ai-document-analyzer
 
 # Backend setup
@@ -127,7 +127,7 @@ Visit `http://localhost:8000` to use the app.
 
 ## API Reference
 
-> Adjust endpoint names/paths below to match your actual FastAPI routes.
+
 
 | Method | Endpoint | Description |
 |---|---|---|
