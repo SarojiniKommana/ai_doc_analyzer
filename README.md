@@ -4,7 +4,7 @@ An AI-powered tool that helps engineering students and researchers quickly under
 
 Built as part of a virtual internship project by a 4-person team.
 
-🔗 **Live demo:** [[https://doc-analyzer-app--0000001.agreeablecliff-e77f2d3d.centralindia.azurecontainerapps.io/](https://doc-analyzer-app.agreeablecliff-e77f2d3d.centralindia.azurecontainerapps.io/)](https://doc-analyzer-app--0000001.agreeablecliff-e77f2d3d.centralindia.azurecontainerapps.io/)
+🔗 **Live Demo:** [View Live Demo](https://doc-analyzer-app.agreeablecliff-e77f2d3d.centralindia.azurecontainerapps.io)
 
 ---
 
